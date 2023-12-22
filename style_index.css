@@ -18,13 +18,18 @@
 
 .one {
   color: #b5334f;
+  font-family: Codec Pro Extrabold;
 }
 
 .two {
   color: #b5334f;
+  font-family: Codec Pro Extrabold;
+
 }
 .three{
   color: #020261;
+  font-family: Codec Pro Extrabold;
+
 }
 @keyframes pulse {
   0% {
