@@ -6,21 +6,20 @@ html{
   overflow-x:hidden;
 }
 
- .landing-page{
+ /* .landing-page{
     height: 100vh;
     width: 100%;
     position: relative;
-    /* background-image: url(./assets/background.jpg); */
     object-fit: cover;
-}
+} */
 
-.navbar{
+/* .navbar{
   transition: all 0.5s;
   transition-property:background-color;
     transition-timing-function: ease-in;
     transition-duration: 1s;
   margin:0;
-}
+} */
 
 
 .page4{
