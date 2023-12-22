@@ -153,7 +153,7 @@ body{
 /* footer */
 .footer
 {
-    background-color: #020261;
+    background-color: rgb(4, 32, 72);
     height: fit-content;
     min-height: 200px;
 }
@@ -183,6 +183,7 @@ body{
 .footer .media{
     height: 150px;
 }
+
 
 /* Sliding */
 .slide-right, .slide-left {
