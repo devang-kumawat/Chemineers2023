@@ -1,0 +1,558 @@
+.main-carousel img {
+  max-height: 100vh !important ;
+  height: 50vw !important;
+  width: 100vw;
+  opacity: 0.6;
+}
+
+.carousel-caption {
+  position: fixed;
+  top: 10%;
+}
+
+.carousel-caption h1 {
+  font-size: 7.5vw;
+  display: inline-block;
+  animation: pulse 2s forwards;
+}
+
+.one {
+  color: #b5334f;
+}
+
+.two {
+  color: #b5334f;
+}
+.three{
+  color: #020261;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(0);
+  }
+
+  90% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+
+body {
+  background-color: #000;
+}
+.homepage-card .row .col{
+  min-height: 100%;
+}
+.ag-courses_box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+
+  padding: 50px 0;
+}
+
+.ag-courses_item {
+  -ms-flex-preferred-size: calc(33.33333% - 30px);
+  flex-basis: calc(33.33333% - 30px);
+  background-color: #280261;
+  margin: 0 15px 30px;
+  min-height: 100%;
+  overflow: hidden;
+  border-radius: 28px;
+}
+
+.ag-courses-item_link {
+  display: block;
+  padding: 30px 20px;
+  overflow: hidden;
+
+  position: relative;
+}
+
+.ag-courses-item_link:hover,
+.ag-courses-item_link:hover .ag-courses-item_date {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.ag-courses-item_link:hover .ag-courses-item_bg {
+  -webkit-transform: scale(10);
+  -ms-transform: scale(10);
+  transform: scale(10);
+}
+
+.ag-courses-item_title {
+  min-height: 200px;
+  margin: 0 0 25px;
+
+  overflow: hidden;
+
+  font-weight: bold;
+  font-size: 18px;
+  color: #FFF;
+
+  z-index: 2;
+  position: relative;
+}
+
+.ag-courses-item_bg {
+  height: 128px;
+  width: 128px;
+  background-color: #280261;
+
+  z-index: 1;
+  position: absolute;
+  top: -75px;
+  right: -75px;
+
+  border-radius: 50%;
+
+  -webkit-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.content1 h1 {
+  text-align: center;
+  font-size: 5vw;
+  color: #020261;
+}
+
+
+
+.our-team {
+  padding: 30px 0 40px;
+  margin-bottom: 30px;
+  background-color: #f7f5ec;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  max-width: 360px;
+}
+
+.our-team .picture {
+  display: inline-block;
+  height: 130px;
+  width: 130px;
+  margin-bottom: 50px;
+  z-index: 1;
+  position: relative;
+}
+
+.our-team .picture::before {
+  content: "";
+  width: 100%;
+  height: 0;
+  border-radius: 50%;
+  background-color: #020261;
+  position: absolute;
+  bottom: 135%;
+  right: 0;
+  left: 0;
+  opacity: 0.9;
+  transform: scale(3);
+  transition: all 0.3s linear 0s;
+}
+
+.our-team:hover .picture::before {
+  height: 100%;
+}
+
+.our-team .picture::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #020261;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.our-team .picture img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  transform: scale(1);
+  transition: all 0.9s ease 0s;
+}
+
+.our-team:hover .picture img {
+  box-shadow: 0 0 0 14px #f7f5ec;
+  transform: scale(0.7);
+}
+
+.our-team .title {
+  display: block;
+  font-size: 15px;
+  color: #4e5052;
+  text-transform: capitalize;
+}
+
+.our-team .social {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #020261;
+  position: absolute;
+  bottom: -100px;
+  left: 0;
+  transition: all 0.5s ease 0s;
+}
+
+.our-team:hover .social {
+  bottom: 0;
+}
+
+.our-team .social li {
+  display: inline-block;
+}
+
+.our-team .social li a {
+  display: block;
+  padding: 10px;
+  font-size: 17px;
+  color: white;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+}
+
+.our-team .social li a:hover {
+  color: #020261;
+  background-color: #f7f5ec;
+}
+
+
+
+/* events */
+
+
+
+/* Typography =======================*/
+
+/* Headings */
+
+/* Main heading for card's front cover */
+.card-front__heading {
+  font-size: 1.5rem;
+  margin-top: .25rem;
+}
+
+/* Main heading for inside page */
+.inside-page__heading {
+  padding-bottom: 1rem;
+  width: 100%;
+}
+
+/* Mixed */
+
+/* For both inside page's main heading and 'view me' text on card front cover */
+.inside-page__heading,
+.card-front__text-view {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-top: .2rem;
+}
+
+.inside-page__heading,
+.card-front__text-view {
+  color: #020261;
+}
+
+
+
+/* Front cover */
+
+.card-front__tp {
+  color: #fafbfa;
+}
+
+/* For pricing text on card front cover */
+
+/* Back cover */
+
+/* For inside page's body text */
+.inside-page__text {
+  color: #333;
+}
+
+/* Icons ===========================================*/
+
+.card-front__icon {
+  fill: #fafbfa;
+  font-size: 3vw;
+  height: 3.25rem;
+  margin-top: -.5rem;
+  width: 3.25rem;
+}
+
+
+/* Layout Structure=========================================*/
+
+.main {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: fit-content;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+/* Container to hold all cards in one place */
+.card-area {
+  align-items: center;
+  display: flex;
+  flex-wrap: nowrap;
+  height: 100%;
+  justify-content: space-evenly;
+  padding: 0.5rem;
+
+}
+
+/* Card ============================================*/
+
+/* Area to hold an individual card */
+.card-section {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+/* A container to hold the flip card and the inside page */
+.card1 {
+  background-color: rgba(0, 0, 0, .05);
+  box-shadow: -.1rem 1.7rem 6.6rem -3.2rem rgba(0, 0, 0, 0.5);
+  height: 15rem;
+  position: relative;
+  transition: all 1s ease;
+  width: 15rem;
+}
+
+/* Flip card - covering both the front and inside front page */
+
+/* An outer container to hold the flip card. This excludes the inside page */
+.flip-card {
+  height: 15rem;
+  perspective: 100rem;
+  position: absolute;
+  right: 0;
+  transition: all 1s ease;
+  visibility: hidden;
+  width: 15rem;
+  z-index: 100;
+}
+
+/* The outer container's visibility is set to hidden. This is to make everything within the container NOT set to hidden  */
+/* This is done so content in the inside page can be selected */
+.flip-card>* {
+  visibility: visible;
+}
+
+/* An inner container to hold the flip card. This excludes the inside page */
+.flip-card__container {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  transform-origin: left;
+  transform-style: preserve-3d;
+  transition: all 1s ease;
+  width: 100%;
+}
+
+.card-front,
+.card-back {
+  backface-visibility: hidden;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+/* Styling for the front side of the flip card */
+
+/* container for the front side */
+.card-front {
+  background-color: #fafbfa;
+  height: 15rem;
+  width: 15rem;
+}
+
+/* Front side's top section */
+.card-front__tp {
+
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  padding: .75rem;
+}
+
+.card-front__tp--city {
+  background:url(assets/homepage/freshers.jpg);
+  background-position: center;
+  background-size: contain;
+}
+
+.card-front__tp--ski {
+  background:url(assets/homepage/Happyhour.jpg);
+  background-position: center;
+  background-size: contain;
+}
+
+.card-front__tp--beach {
+  background: url(assets/homepage/simutech.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+.card-front__tp--camping {
+  background: url(assets/homepage/exergyposter.jpg);
+  background-position: center;
+  background-size: contain;
+}
+
+
+/* Styling for the back side of the flip card */
+
+.card-back {
+  background-color: #fafbfa;
+  height: 100% !important;
+  transform: rotateY(180deg);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Specifically targeting the <video> element */
+.video__container {
+  height: min-content;
+  object-fit: cover !important;
+  width: 100%;
+  height: 100%!important;
+}
+
+
+
+/* Inside page */
+
+.inside-page {
+  background-color: #fafbfa;
+  box-shadow: inset 20rem 0px 5rem -2.5rem rgba(0, 0, 0, 0.25);
+  height: 100%;
+  padding: 1rem;
+  position: absolute;
+  right: 0;
+  transition: all 1s ease;
+  width: 15rem;
+  z-index: 1;
+}
+
+.inside-page__container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+}
+
+/* Functionality ====================================*/
+
+/* This is to keep the card centered (within its container) when opened */
+.card1:hover {
+  width: 30rem;
+}
+
+/* When the card is hovered, the flip card container will rotate */
+.card1:hover .flip-card__container {
+  transform: rotateY(-180deg);
+}
+
+/* When the card is hovered, the shadow on the inside page will shrink to the left */
+.card1:hover .inside-page {
+  box-shadow: inset 1rem 0px 5rem -2.5rem rgba(0, 0, 0, 0.1);
+}
+
+
+/* Recenet Sessions */
+figure {
+  display: grid;
+  border-radius: 1.8rem;
+  overflow: hidden;
+  width: 18rem!important ;
+  cursor: pointer;
+  text-align: center;
+  height: 250px;
+  height: 18rem;
+}
+figure img{
+  width: 18rem;
+  min-height: 100%;
+}
+figure>* {
+  grid-area: 1/1;
+  transition: .4s;
+}
+
+figure figcaption {
+  display: grid;
+  align-items: end;
+  font-family: sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #0000;
+  padding: .75rem;
+  background: var(--c, #0009);
+  clip-path: inset(0 var(--_i, 100%) 0 0);
+  -webkit-mask:
+    linear-gradient(#000 0 0),
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  -webkit-mask-clip: text, padding-box;
+  margin: -1px;
+}
+
+figure:hover figcaption {
+  --_i: 0%;
+}
+
+figure:hover img {
+  transform: scale(1.2);
+  opacity: 0.5;
+}
+
+@supports not (-webkit-mask-clip: text) {
+  figure figcaption {
+    -webkit-mask: none;
+    color: #fff;
+  }
+}
+
+.session {
+  margin: 0;
+  height: auto;
+  display: grid;
+  grid-auto-flow: column;
+  place-content: center;
+}

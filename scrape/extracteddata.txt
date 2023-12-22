@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Impact of ChatGPT on theEducation System",
+    "content": "Welcome to an exploration of the fascinating world of Artificial              Intelligence(AI) In this blog, we will embark on a journey to              understand the essence of AI, tracing its origins, delving into the              diverse categories of AI tools, especially one of the most efficient              model of it i.e. ChatGPT. Our exploration will encompass not only              the\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2023/10/image1.png?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2023/10/18/impact-of-chatgpt-on-the-education-system/"
+  },
+  {
+    "title": "Recent Advancements in ChemicalEngineering Technology",
+    "content": "\u201cIn the world of science and technology, breakthroughs are constantly              challenging established norms. Join us as we delve into two              fascinating studies that push the boundaries of our understanding.              From the intricacies of droplet formation to a revolutionary              approach to measuring Relative Colour Strength (RCS) in dyes, these              discoveries promise to reshape the fields of\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2023/10/heat_to_power_matrix.jpg?w=400&h=400&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2023/10/08/recent-advancements-in-chemical-engineering-technology/"
+  },
+  {
+    "title": "Role of Chemical Engineers in theSemiconductors Industry",
+    "content": "All electronic gadgets like phones, laptops or toys are operated by              semiconductors. The new age of electronics depends on how fast and              miniature the device is. The fabrication of silicon chips is the              determining factor for the upcoming industry challenge. Here comes              the role of chemical engineers. Generally, chemical engineers who              work in design, operation\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2023/09/semiconductor.jpg?w=800&h=800&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2023/09/13/role-of-chemical-engineers-in-the-semiconductors-industry/"
+  },
+  {
+    "title": "PROCESS INTENSIFICATION",
+    "content": "Process intensification represents a cutting-edge paradigm in              chemical engineering, harnessing advanced technology to              revolutionize traditional industrial processes. The seamless              integration of innovative techniques and state-of-the-art equipment              yields exceptional outcomes, streamlining operations, minimizing              environmental impact, and maximizing resource utilization. This              transformative approach fosters sustainable practices, propelling              industries towards a greener, more efficient future. WHAT IS              PROCESS\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2023/08/img.png?w=1200&h=1200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2023/08/10/process-intensification/"
+  },
+  {
+    "title": "Renewable Energy using Footsteps!",
+    "content": "The world of creating renewable energy from non-renewable energy is              growing very fast. Scientists take a step further into this by              introducing a new way of generating electricity from walking. The              average power is 0.0604 watt/10 footsteps[1]. It might sound too              low, but it is enough to supply power for lighting up streets as              pedestrians\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2023/04/wcwec.png?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2023/04/05/renewable-energy-using-footsteps/"
+  },
+  {
+    "title": "WASTE TO ENERGY",
+    "content": "The mantra of 3R-Reduce, Reuse, Recycle- is at the heart of any              vision toward the sustainable development of mankind. All              stakeholders -producers, consumers, and state alike-must adhere to              this golden principle which can contribute significantly in solving              the twin challenges of waste management as well as sustainable              development Hon\u2019ble PM Shri Narendra Modi As per\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/12/waste_cover.jpg?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/12/26/waste-to-energy/"
+  },
+  {
+    "title": "Six Sigma",
+    "content": "Measurement is the first step that leads to control and eventually to              improvement. If you can\u2019t measure something, you can\u2019t understand              it. If you can\u2019t understand it, you can\u2019t control it. If you can\u2019t              control it, you can\u2019t improve it. \u00a0H. James Harrington,\u00a0              Author & Management Mentor In this blog, we will talk about one\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/12/6sigma_cover.png?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/12/16/six-sigma/"
+  },
+  {
+    "title": "The Chernobyl Disaster",
+    "content": "There was nothing sane about Chernobyl. What happened there, what              happened after, even the good we did, all of it\u2026all of it,              madness. Valery Legasov (a Soviet Chemist who investigated the              Disaster) In this Blog, we will talk about one of the world\u2019s              worst industrial disasters: the Chernobyl Disaster (April 26, 1986).              We must learn\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/12/chernobyl-cover.png?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/12/04/the-chernobyl-disaster/"
+  },
+  {
+    "title": "India\u2019s first Green HydrogenFueling Station",
+    "content": "The first green hydrogen fueling station in India is being installed              in Leh, Union Territory of Ladakh. The plant is expected to be              operational by May of next year[1]. It is a one-of-a-kind project              being built by the state-owned NTPC.Green Hydrogen, obtained by              electrolysis from renewable electricity (which separates hydrogen              from the oxygen present in\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/09/ecwcwecw.png?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/09/29/indias-first-green-hydrogen-fueling-station/"
+  },
+  {
+    "title": "Seveso Chemical Disaster",
+    "content": "Seveso became one of the world\u2019s deadliest industrial              tragedies, igniting an urgent outcry against the chemical sector for              tighter safety laws. Seveso triggered the implementation of              so-called \u201cEU-Seveso\u201d guidelines in Europe, first in              1982 and then again in 1996, aiming at the prevention and management              of such incidents. A chemical factory explosion near Seveso, Italy,\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/03/seveso_cover.jpg?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/03/06/seveso-chemical-disaster/"
+  },
+  {
+    "title": "2D Graphene Sheets",
+    "content": "Graphene is 2D fabric material composed of a thick hexagonal layer.              This fabric has attracted tremendous interest amongst clinical              networks due to its excessive surface area, fantastic mechanical              properties, and conductivity because of unfastened electrons in its              lattice. There are various approaches to prepare its nanosheets,              such as the top-down approach. The bottom-up technique involves\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/02/graphene_cover.jpg?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/02/05/2d-graphene-sheets/"
+  },
+  {
+    "title": "Flex-fuel Vehicles",
+    "content": "Recently, at the COPS26 summit in Glasgow, India announced that it              would achieve net-zero emissions by 2070. Several measures have to              be taken in order to accomplish this challenge. Around 2.3 kg of CO2              is produced by burning 1L of gasoline. Hence, carbon emission via              fuels is a matter of concern and something which has\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2022/01/flex_fuel_feature-1.jpg?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2022/01/08/flex-fuel-vehicles/"
+  },
+  {
+    "title": "The Beirut Explosion",
+    "content": "On 4 August 2020, an excessive amount of nitrate stored at the port              of the town of Beirut, the capital of Lebanon, exploded, causing a              minimum of 200 deaths, 7,500 injuries, and collective losses of              $10-15 billion (\u00a38-11 billion), and leaving an estimated 300,000              people homeless. A cargo of roughly 2,700 tonnes of the substance\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/12/bierut_feature.jpg?w=800&h=800&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/12/11/the-bierut-explosion/"
+  },
+  {
+    "title": "New Catalyst Makes Styrene Production Cheaper& Greener",
+    "content": "What is Styrene ? Styrene(C6H5CH=CH2) belongs to a group of chemical              compounds that are broadly categorized as vinyl. It is also known as              vinylbenzene, ethynylbenzene, cinnamene, or phenylethylene. In pure              form, it is a clear, colorless, flammable liquid with a boiling              point of 145 \u00b0C (293 \u00b0F) and freezing point \u221230.6 \u00b0C (\u221223.1 \u00b0F).              Unless\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/11/styr4.png?w=200&h=200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/11/07/new-catalyst-makes-styrene-production-cheaper-greener/"
+  },
+  {
+    "title": "Hydrogen Fueled Vehicles",
+    "content": "Almost everyone is aware of the existence of electric cars, but have              you heard of hydrogen-powered vehicles? Yes, a vehicle that runs on              the most abundant chemical element in the world- Hydrogen But do we              really need vehicles that work on hydrogen or even electricity?              Until now, fossil fuels have proved to be a convenient\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/10/feature.jpg?w=1200&h=1200&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/10/04/hydrogen-fueled-vehicles/"
+  },
+  {
+    "title": "Bhopal Gas Tragedy",
+    "content": "This blog tries to cover the sequence of events on the night of 2nd              December 1984 which led to what is known as one of the world\u2019s worst              industrial disasters: the Bhopal Gas Tragedy. It is very important              to take the necessary lessons from such incidents and prevent them              in the future. Towards the latter\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/09/bgt_featureimage1.jpg?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/09/05/bhopal-gas-tragedy/"
+  },
+  {
+    "title": "Time Crystals",
+    "content": "Quantum Computing is a very fast-growing field and using time              crystals in it is the result of recent research and experiments.              Now, I am sure you might be curious and you must be thinking about              the time crystals and possibilities of these curiosities can have a              vast exploring and innovative range. Though, we will like\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/08/time_crystal.jpg?w=400&h=400&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/08/29/time-crystals/"
+  },
+  {
+    "title": "Green Ammonia",
+    "content": "Why is it essential ? The increasing need for nitrogen-based              fertilizer in the early \u201920s resulted in the development of the              Haber-Bosch process which uses high pressure and low temperature              along with a catalyst, to produce ammonia from nitrogen and              hydrogen. The production of ammonia is the largest source of              greenhouse gas emissions \u2013 the\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/08/poster-green-ammonia.png?w=800&h=800&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/08/16/green-ammonia/"
+  },
+  {
+    "title": "Scaling up Vaccine Production byChemical Engineers",
+    "content": "Ever since the world came under the influence of Coronavirus,              scientists,researchers, biochemists and biologists across the globe              realised the need tocome up with a biologically safe and efficient              vaccine.Vaccine development usually takes about 5-10 years but              developing a vaccinein just a few months is a magnificent triumph              for medical sciences.But have you ever wondered how\u2026",
+    "image": "https://chemineeriitk.files.wordpress.com/2021/05/p4.jpg?w=600&h=600&crop=1",
+    "futureRead": "https://chemineeriitk.wordpress.com/2021/07/28/vaccine-production/"
+  }
+]

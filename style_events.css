@@ -1,0 +1,106 @@
+.carousel-item img{
+    height:90vh;
+}
+
+.event .col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: #4c4c81 !important;
+    color: white;
+
+    border-radius: 30px !important;
+}
+
+.card .card-body{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .col-md-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card img{
+    height: 150px;
+    width: 90%;
+    margin: 10px;
+}
+.event .col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.event .card{
+    min-height: 100%;
+}
+.event .row{
+    height: fit-content;
+    min-height: 270px;
+}
+/* #events1:not(.img-fluid){
+    background-image: url(assets/events/events1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+}
+#events2{
+    background-image: url(assets/events/events2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+    
+}
+#events3{
+    background-image: url(assets/events/events3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+    
+}
+#events4{
+    background-image: url(assets/events/events4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+    
+}
+#events5{
+    background-image: url(assets/events/events5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+    
+}
+#events6{
+    background-image: url(assets/events/events6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;    
+}
+#events7{
+    background-image: url(assets/events/events7.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+    
+}
+#events8{
+    background-image: url(assets/events/events8.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-blend-mode: hard-light;
+} */

@@ -1,0 +1,230 @@
+html{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    overflow: hidden;
+}
+/* Navbar */
+.transparent{
+    background-color: transparent !important;
+    /* opacity: 0.5; */
+}
+/* Default state without transparent class */
+.navbar {
+    background-color: rgba(26, 40, 62, 0.888);
+    transition: background-color 0.3s ease; /* Add smooth transition */
+    height: auto !important;
+  }
+  
+  /* Transparent background */
+  .navbar.transparent {
+    background-color: transparent;
+  }
+  .navbar .nav-link {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+  }
+  .navbar-nav .nav-link {
+    position: relative;
+    text-decoration: none;
+  }
+  
+  .navbar-nav .nav-link::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #004de6; /* Set your preferred color */
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .navbar-nav .nav-link:hover::after {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+  .info-block {
+    position: absolute;
+    top: 1rem; /* Adjust the top position as needed */
+    left: 13%; 
+    transform: translateX(-50%); /* Center horizontally */
+    color: white;
+    padding-bottom: 10px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+
+.navbar-collapse
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-item{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.navbar-brand img{
+    height: 50px;
+    width: 50px;
+}
+.navbar-nav .nav-link {
+    color: white !important; 
+    text-decoration: none !important;
+    font-weight: 450;
+  }
+.navbar-brand{
+    color: white;
+}
+.changePosition{
+    position: absolute !important;
+}
+@media screen and (max-width: 992px){
+    .navbar-collapse{
+        justify-content: flex-start!important;
+    }
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.nav-item:not(.active) .nav-link:hover{
+    opacity:0.6 !important;
+    text-decoration: none;
+}
+.navbar-nav .active {
+    opacity: 0.5!important;
+}
+.navbar-brand:hover{
+    text-decoration: none;
+    color: white;
+}
+/* background */
+/* .background{
+    width: 100vw;
+    max-height: 100vh;
+} */
+/* carousel */
+.carousel{
+    margin-bottom: 10px;
+    /* opacity: 1 !important; */
+}
+.carousel img{
+    border-radius: 5px;
+    height: 40vw;
+    min-height: 35vh;
+    max-height: 70vh;
+}
+
+/* content */
+.content h1{
+    text-align: center;
+    font-size: 8vw;
+    color: #020261;
+}
+.projects .col{
+    display: flex;
+    justify-content: center;
+}
+.projects .carousel img{
+    height: 200px;
+}
+.col{
+    padding: 20px;
+    
+}
+.card-body .btn{
+    color: white;
+    background-color: #020261;
+}
+.card{
+    background-color:#4c4c81 !important;
+    color: white;
+    padding: 10px;
+}
+/* footer */
+.footer
+{
+    background-color: #020261;
+    height: fit-content;
+    min-height: 200px;
+}
+.footer .smedia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer .loc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+.footer .loc div{
+    text-align: center;
+}
+.footer .loc b{
+    text-align: center;
+}
+.footer .loc div a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+.footer .media{
+    height: 150px;
+}
+
+/* Sliding */
+.slide-right, .slide-left {
+    width: 100%;
+  }
+  
+  /***** Slide Right *****/
+  .slide-right {
+    animation: 0.3s slide-right;
+  }
+  @keyframes slide-right {
+    from {
+      margin-left: -100%;
+    }
+    to {
+      margin-left: 0%;
+    }
+  }
+  
+  /***** Slide Left *****/
+  .slide-left {
+    animation: 0.3s slide-left;
+  }
+  @keyframes slide-left {
+    from {
+      margin-left: 100%;
+    }
+    to {
+      margin-left: 0%;
+    }
+  }
+  
+  .arch{
+    background-color:#4c4c81 !important;
+    height: 144px;
+    color:white;
+    padding: 20px;
+    border-radius:5px ;
+  }
+  .arch:hover{
+    color:black;
+    transition: all 0.3s;
+
+  }
+  
