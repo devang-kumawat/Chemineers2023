@@ -1,5 +1,5 @@
 .main-carousel img {
-  max-height: 100vh !important ;
+  max-height: 100vh !important;
   height: 50vw !important;
   width: 100vw;
   opacity: 0.6;
@@ -26,11 +26,13 @@
   font-family: Codec Pro Extrabold;
 
 }
-.three{
+
+.three {
   color: #020261;
   font-family: Codec Pro Extrabold;
 
 }
+
 @keyframes pulse {
   0% {
     transform: scale(0);
@@ -50,9 +52,11 @@
 body {
   background-color: #000;
 }
-.homepage-card .row .col{
+
+.homepage-card .row .col {
   min-height: 100%;
 }
+
 .ag-courses_box {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -411,13 +415,13 @@ body {
 }
 
 .card-front__tp--city {
-  background:url(assets/homepage/freshers.jpg);
+  background: url(assets/homepage/freshers.jpg);
   background-position: center;
   background-size: contain;
 }
 
 .card-front__tp--ski {
-  background:url(assets/homepage/Happyhour.jpg);
+  background: url(assets/homepage/Happyhour.jpg);
   background-position: center;
   background-size: contain;
 }
@@ -454,7 +458,7 @@ body {
   height: min-content;
   object-fit: cover !important;
   width: 100%;
-  height: 100%!important;
+  height: 100% !important;
 }
 
 
@@ -505,16 +509,18 @@ figure {
   display: grid;
   border-radius: 1.8rem;
   overflow: hidden;
-  width: 18rem!important ;
+  width: 18rem !important;
   cursor: pointer;
   text-align: center;
   height: 250px;
   height: 18rem;
 }
-figure img{
+
+figure img {
   width: 18rem;
   min-height: 100%;
 }
+
 figure>* {
   grid-area: 1/1;
   transition: .4s;
@@ -560,4 +566,20 @@ figure:hover img {
   display: grid;
   grid-auto-flow: column;
   place-content: center;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
