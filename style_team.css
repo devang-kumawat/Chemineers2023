@@ -188,8 +188,9 @@ html{
     transform: translateY(-3vh);
     opacity: 1;
     transition: all 0.8s;
-    padding: 0px;
+    padding-top: 20px;
   }
+  
   .social-links{
     text-align: center;
     transform: translateY(-5vh);
@@ -286,7 +287,12 @@ html{
     padding-bottom: 0px;
     justify-content:center;
   }
-
+  .roww {
+    gap:0%;
+    margin-bottom: 8%;
+    padding-bottom: 0px;
+    justify-content:center;
+  }
   .head1{
     margin-top: 50px;
     width: 100%;
